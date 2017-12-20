@@ -4,7 +4,7 @@ ReactEasyUI 是一个基于 React 的常用组件库，封装了日期、列表�
 
 ##Demo
 
-ReactEasyUI=>[https://reacteasyui.github.io](https://reacteasyui.github.io)
+ReactEasyUI:[https://reacteasyui.github.io](https://reacteasyui.github.io)
 
 ## 安装
 
